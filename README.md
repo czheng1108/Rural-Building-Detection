@@ -19,8 +19,8 @@ For more details, please refer to our [paper]().
 ## Installation
 Use `git clone https://github.com/czheng1108/Rural-Building-Detection.git`
 to clone the project locally, then add the [dataset](https://pan.baidu.com/s/10X0TbmNiFtXdY1OAHzjU8A) to 
-the directory `data` and the [pre-training weights](https://pan.baidu.com/s/12VRFScdWlIsErsgHJ5eFzg) to 
-the directory `pre_training_weights`. The images of testset can download from [here](https://pan.baidu.com/s/19qZL0F6uI1MMzznEn0F26A). 
+the directory of `data` and the [pre-training weights](https://pan.baidu.com/s/12VRFScdWlIsErsgHJ5eFzg) to 
+the directory of `pre_training_weights`. The images of testset can download from [here](https://pan.baidu.com/s/19qZL0F6uI1MMzznEn0F26A). 
 For training of other models, please refer to [mmdetection](https://github.com/open-mmlab/mmdetection).
 We recommend using soft link to save dataset, pre-training weights, training logs, etc.
 
